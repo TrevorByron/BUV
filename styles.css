@@ -41,6 +41,9 @@ a img{
   z-index: 50;
   margin: 0 !important;
 }
+p {
+  text-transform: uppercase;
+}
 
 
 .mdl-textfield--expandable {
