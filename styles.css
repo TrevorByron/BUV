@@ -41,7 +41,7 @@ a img{
   z-index: 50;
   margin: 0 !important;
 }
-p {
+.uppercase {
   text-transform: uppercase;
 }
 
